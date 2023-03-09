@@ -1,0 +1,11 @@
+Para descobrir qual veículo estará mais próximo da cidade de Ribeirão Preto quando eles se cruzarem na rodovia, é necessário calcular a distância percorrida por cada um dos veículos até o ponto de encontro.
+
+Sabemos que a distância entre Ribeirão Preto e Franca é de 100 km, então o ponto de encontro ocorrerá na metade do caminho, ou seja, a 50 km de cada cidade.
+
+O carro está viajando a uma velocidade constante de 110 km/h, então em uma hora ele percorre 110 km. Para percorrer os primeiros 50 km até o ponto de encontro, ele levará 50/110 horas, que é aproximadamente 0,4545 horas ou 27,27 minutos.
+
+Enquanto isso, o caminhão está viajando a uma velocidade constante de 80 km/h, então em uma hora ele percorre 80 km. No entanto, ele leva 5 minutos extras em cada pedágio, então seu tempo de viagem será maior do que o do carro. Assumindo que há 2 pedágios no caminho, o caminhão levará 10 minutos a mais que o carro para percorrer a distância entre as duas cidades.
+
+Para percorrer os primeiros 50 km até o ponto de encontro, o caminhão levará, portanto, 50/(80/60) + 10 minutos, o que é aproximadamente 41,25 minutos.
+
+Portanto, quando eles se cruzarem na rodovia, o carro estará mais próximo da cidade de Ribeirão Preto, já que ele levará apenas 27,27 minutos para chegar ao ponto de encontro, enquanto o caminhão levará 41,25 minutos.
